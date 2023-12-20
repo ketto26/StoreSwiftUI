@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "networkmanagerpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ketto26/NetworkManagerPackage",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3506f41e730dcaf0497941c2061fa2c73f0db29e"
+      }
+    }
+  ],
+  "version" : 2
+}
